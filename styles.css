@@ -1,13 +1,19 @@
 
-.title {
+.header {
+    background-color: brown;
+}
+
+h1.header {
     font-family: "Copperplate", papyrus, fantasy;
     color: rgb(241, 163, 18);
-    text-align: center;
+    font-size:45px;
+}
+
+h1.title{
+    font-family: Helvetica,Arial, Helvetica, sans-serif;
 }
 
 .image.banner {
-    margin:auto;  /*Set margin auto on both left and right*/
-    /*margin-left:auto margin-right:auto */
     width:40%;
     display: block;
 }
@@ -19,4 +25,20 @@ div {
     }
 */
 
+h2.prompt {
+    font-family: 'Courier New', Courier, monospace;
+}
 
+ul.menu .image.food {
+    height: auto;
+    width: 250px;
+}
+
+ul.menu .item {
+
+}
+
+h2.header {
+    color: brown;
+    font-size:15px;
+}
