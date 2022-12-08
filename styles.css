@@ -29,6 +29,11 @@ h2.prompt {
     font-family: 'Courier New', Courier, monospace;
 }
 
+h2.section {
+    font-family: "Lucida Handwriting", Papyrus, Courier, cursive, monospace;
+    font-weight:bold;
+}
+
 ul.menu .image.food {
     height: auto;
     width: 250px;
