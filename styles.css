@@ -1,0 +1,22 @@
+
+.title {
+    font-family: "Copperplate", papyrus, fantasy;
+    color: rgb(241, 163, 18);
+    text-align: center;
+}
+
+.image.banner {
+    margin:auto;  /*Set margin auto on both left and right*/
+    /*margin-left:auto margin-right:auto */
+    width:40%;
+    display: block;
+}
+
+/* To center image using text-align, image has to be inside a div container, but doesn't seem to support Scaling */
+/*
+div {   
+    text-align: center; 
+    }
+*/
+
+
